@@ -15,3 +15,6 @@ I am not responsible for any problem
 if the software is detected as a virus, don't worry, it's because it can touch the registry and the services
 
 for the good functioning of this one please run it with nsudo  
+
+
+the key is : AVXE-WJKM-XDHZ-ASPQ
